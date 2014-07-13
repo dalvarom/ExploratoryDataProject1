@@ -62,7 +62,7 @@
 # The four plots that you will need to construct are shown below. 
 
 # Select your working directory
-setwd("D:/Trabajo/Cursos/Exploratory data analysis/project 1")
+setwd("C:/Temp")
 
 # Create a folder to save the zip file on it
 if (!file.exists("./data")) {dir.create("./data")}
